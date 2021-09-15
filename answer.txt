@@ -1,0 +1,8 @@
+1. What is a gitignore file and what should it include for a Java project? 
+   Gitignore files instructs users to ignore certain files. Temporary files and system files, such as.project and.class, are not posted to git. Package files and built class files should be included in java log files.
+2. What does fast forward in git mean?
+   When there is a linear path from source, it changes the pointer without requiring an extra merging commit.
+3. Why should you have different branches?
+   It allows us to develop individually and eventually integrate without colliding.
+4. In a project how many remote repositories do we usually have
+   At the very least, one should be present.
